@@ -25,4 +25,4 @@ This process should have as many iterations as you can between:
  - experimenting
 
 ### Good Material:
-- [good video from the DevOps Guy] (https://www.youtube.com/watch?v=d8X4Nd5gswU). I should think about using his template and see how that feels.
+- [good video from the DevOps Guy](https://www.youtube.com/watch?v=d8X4Nd5gswU). I should think about using his template and see how that feels.
