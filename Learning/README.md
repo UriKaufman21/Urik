@@ -14,7 +14,7 @@ Why was tool created? What were the alternatives back then?
 How should you use that? Shortcuts?
 
 ### Full Functionality
-What is the power of it
+What is the power of it?
 
 ### How Does It Work?
 What is the technology behind it?
@@ -25,4 +25,4 @@ This process should have as many iterations as you can between:
  - experimenting
 
 ### Good Material:
-- [ good video from the DevOps Guy ] ( https://www.youtube.com/watch?v=d8X4Nd5gswU ). I should think about using his template and see how that feels.
+- [good video from the DevOps Guy] (https://www.youtube.com/watch?v=d8X4Nd5gswU). I should think about using his template and see how that feels.
